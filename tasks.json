@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Netflix watch ",
+        "due_date": null,
+        "completed": true
+    },
+    {
+        "description": "Playing Cricket",
+        "due_date": null,
+        "completed": false
+    },
+    {
+        "description": "Meet Today Best Friend",
+        "due_date": null,
+        "completed": false
+    }
+]
